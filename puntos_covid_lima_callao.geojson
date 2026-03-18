@@ -1,0 +1,3392 @@
+{
+  "type": "FeatureCollection",
+  "name": "Puntos COVID Lima Metropolitana y Callao",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1647,
+          -11.6035
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "nombre": "Centro de Salud San José",
+        "distrito": "Ancón",
+        "direccion": "Calle Pasto Andino S/N - Urb. San José (Ref. Paradero Chacas)",
+        "telefono": "(01) 524 - 5156",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1773,
+          -11.5895
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "nombre": "Centro de Salud Villa Estela",
+        "distrito": "Ancón",
+        "direccion": "Mz B5 Lote 40 Villa Estela, Km. 39 Panamericana Norte",
+        "telefono": "(01) 550 - 2116",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1621,
+          -11.7747
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "nombre": "Centro de Salud Materno Infantil Ancón",
+        "distrito": "Ancón",
+        "direccion": "Jr. Loa N° 595",
+        "telefono": "(01) 524 - 5141",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0295,
+          -11.8312
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "nombre": "Centro de Salud La Flor",
+        "distrito": "Carabayllo",
+        "direccion": "Jr. Puno Cdra. 3 S/N, Alt. Km.17 De Av. Tupac Amaru",
+        "telefono": "(01) 543 - 2209",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0213,
+          -11.8383
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "nombre": "Centro de Salud Villa Esperanza",
+        "distrito": "Carabayllo",
+        "direccion": "Jr. 9 de Octubre Cdra. 02 S/N Pueblo Joven Villa Esperanza, Alt. Km 18 1/2 De Av. Tupac Amaru",
+        "telefono": "(01) 547 - 0600",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0165,
+          -11.8563
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "nombre": "Centro de Salud Raúl Porras Barrenechea",
+        "distrito": "Carabayllo",
+        "direccion": "Jr. Arequipa Cdra. 04 S/N AA.HH Raúl Porras Barrenechea",
+        "telefono": "(01) 543 - 0940",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0132,
+          -11.862
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "nombre": "Centro de Salud Juan Pablo III",
+        "distrito": "Carabayllo",
+        "direccion": "Jr. San Fernando Mz N Lote 11 AA.HH Juan Pablo II",
+        "telefono": "(01) 717 - 4321",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0078,
+          -11.8695
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "nombre": "Centro Materno Infantil El Progreso",
+        "distrito": "Carabayllo",
+        "direccion": "Av. Tupac Amaru Nº 2950 (Km 21)",
+        "telefono": "(01) 547 - 0550",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0051,
+          -11.8748
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "nombre": "Centro de Salud San Benito",
+        "distrito": "Carabayllo",
+        "direccion": "MZ W1 - LOTE 2 - SAN BENITO 4TA. ETAPA",
+        "telefono": "(01) 717 - 4338",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0543,
+          -11.9248
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "nombre": "Centro de Salud El Álamo",
+        "distrito": "Comas",
+        "direccion": "Mz y Lote 1 Urb. El Álamo, a 2 cuadras del Aeroclub de Collique",
+        "telefono": "(01) 524 - 8199",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0608,
+          -11.9358
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "nombre": "Centro de Salud Santa Luzmila I",
+        "distrito": "Comas",
+        "direccion": "Av. Guillermo de la Fuente Cdra. 2 S/N - Urb. Santa Luzmila",
+        "telefono": "(01) 551 - 7693",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0578,
+          -11.9301
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "nombre": "Centro de Salud Año Nuevo",
+        "distrito": "Comas",
+        "direccion": "Jr. Bolognesi Cra.6 S/N Asociación Año Nuevo, Alt. Parroquia Año Nuevo",
+        "telefono": "(01) 542 - 1810",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0453,
+          -11.9145
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "nombre": "Centro de Salud Collique III Zona",
+        "distrito": "Comas",
+        "direccion": "Av. Santa Rosa Cdra. 9 III Zona De Collique, Alt. Km.14 1/2 De La Av. Tupac Amaru",
+        "telefono": "(01) 558 - 1306",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0498,
+          -11.9202
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nombre": "Centro de Salud Carlos A. Protzel",
+        "distrito": "Comas",
+        "direccion": "Jr. Andrés Belaunde Este Cdra. 2 S/N, Carmen Bajo. Comas, altura Km. 13 De La Av. Tupac Amaru",
+        "telefono": "(01) 541 - 2433",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0633,
+          -11.9421
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "nombre": "Centro de Salud Clorinda Málaga",
+        "distrito": "Comas",
+        "direccion": "Jr. Atahualpa S/N Pueblo Joven Villa Clorinda, Alt. Km 8 1/2 de Av. Tupac Amaru",
+        "telefono": "(01) 525 - 8070",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0551,
+          -11.9268
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "nombre": "Centro de Salud Comas",
+        "distrito": "Comas",
+        "direccion": "Jr. Puno Cdra. 4 S/N Barrio Santa Rosa, Alt. Km 11 De La Av. Tupac Amaru",
+        "telefono": "(01) 542 - 5557",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0593,
+          -11.9345
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "nombre": "Centro de Salud Santiago Apóstol",
+        "distrito": "Comas",
+        "direccion": "Av. 2 De mayo Cdra. 7 S/N, Sector la Libertad, AA.HH. La Balanza",
+        "telefono": "(01) 542 - 8235",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0428,
+          -11.9112
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "nombre": "Centro de Salud Gustavo Lanatta",
+        "distrito": "Comas",
+        "direccion": "Jr. Arequipa S/N V Zona de Collique (Alt. Cdra. 29 De La Av. Revolución)",
+        "telefono": "(01) 558 - 0204",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0648,
+          -11.9465
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "nombre": "Centro de Salud Húsares De Junín",
+        "distrito": "Comas",
+        "direccion": "Jr. Húsares de Junín Cuadra 1 S/N Urb. Huaquillay II Etapa",
+        "telefono": "(01) 536 - 3998",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058,
+          -11.9328
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "nombre": "Centro de Salud Carmen Alto",
+        "distrito": "Comas",
+        "direccion": "Jr. 03 de octubre Cdra.19, Pueblo Joven (Cruce Av. Tres De Octubre Con Av. Cierra Maestra)",
+        "telefono": "(01) 541 - 4107",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0621,
+          -11.9489
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "nombre": "Centro de Salud Carlos Phillips",
+        "distrito": "Comas",
+        "direccion": "Jr. Brasilia Cdra. 1, S/N Urb. El Parral, ingreso Por El Centro Comercial Mega 80",
+        "telefono": "(01) 525 - 0769",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476,
+          -11.9178
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "nombre": "Centro de Salud Sangarara",
+        "distrito": "Comas",
+        "direccion": "Jr. Unión Cdra.6 S/N Coop. Paulo Vi, Alt. Km. 14 1/2 De La Av. Tupac Amaru",
+        "telefono": "(01) 542 - 1829",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0615,
+          -11.9372
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "nombre": "Centro Materno Infantil Santa Luzmila II",
+        "distrito": "Comas",
+        "direccion": "Av. 22 De agosto 1001, Urb. Santa Luzmila (Costado Del Mercado Modelo)",
+        "telefono": "(01) 321 - 4277",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0538,
+          -11.9255
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "nombre": "Centro Materno Infantil Laura Rodríguez Dulanto Duksil",
+        "distrito": "Comas",
+        "direccion": "Parcela A Mz.2 R1 S/N Urb. El Pinar, Alt. Del Mercado El Pinar",
+        "telefono": "(01) 557 - 4330",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0578,
+          -11.9858
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "nombre": "Centro de Salud Ermitaño Alto",
+        "distrito": "Independencia",
+        "direccion": "Av. Los Jazmines S/N, Cuadra 5 – AA. HH Ermitaño Alto",
+        "telefono": "(01) 522 - 2582",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0605,
+          -11.9888
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "nombre": "Centro de Salud Ermitaño Bajo",
+        "distrito": "Independencia",
+        "direccion": "Av. Los Pinos Cuadra 1 (Costado Del Municipio)",
+        "telefono": "(01) 719 - 4093",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0548,
+          -11.9815
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "nombre": "Centro de Salud Tahuantinsuyo Alto",
+        "distrito": "Independencia",
+        "direccion": "Jr. Hermanos Ayar Cuadra 2 S/N IV Zona De Tahuantinsuyo",
+        "telefono": "(01) 526 - 8002",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0638,
+          -11.9932
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "nombre": "Centro de Salud Milagro De La Fraternidad",
+        "distrito": "Independencia",
+        "direccion": "Av. Los Héroes Cdra.1 S/N AA. HH Milagro De la Fraternidad, espalda Metro UNI",
+        "telefono": "(01) 534 - 7777",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0658,
+          -11.9948
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "nombre": "Centro de Salud Tupac Amaru",
+        "distrito": "Independencia",
+        "direccion": "Jr. Cajamarca Cuadra 2 S/N Urb. Payet, cruce De Jr. Cajabamba con Av. Payet",
+        "telefono": "(01) 526 - 0465",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0568,
+          -11.9848
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "nombre": "Centro Materno Infantil Tahuantinsuyo Bajo",
+        "distrito": "Independencia",
+        "direccion": "Av. Chinchaysuyo Cuadra 4, Urb. Tahuantinsuyo",
+        "telefono": "(01) 526 - 1100",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0748,
+          -11.9658
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "nombre": "Centro de Salud Enrique Milla Ochoa",
+        "distrito": "Los Olivos",
+        "direccion": "AA. HH Enrique M. Ochoa Cte. 8 Mz, Frente Al Complejo Deportivo",
+        "telefono": "(01) 544 - 4867",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0788,
+          -11.9528
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "nombre": "Centro de Salud Los Olivos De Pro",
+        "distrito": "Los Olivos",
+        "direccion": "AA. HH Los Olivos de Pro (Local Comunal) Complejo Educ. Alberto Fujimori C.E. 2024",
+        "telefono": "(01) 529 - 8363",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0808,
+          -11.9478
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "nombre": "Centro de Salud Villa Del Norte",
+        "distrito": "Los Olivos",
+        "direccion": "Av. Chillón S/N, Alt. De La Parroquia De La Reconciliación",
+        "telefono": "(01) 529 - 8907",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778,
+          -11.9698
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "nombre": "Centro de Salud Primavera",
+        "distrito": "Los Olivos",
+        "direccion": "Mz. F - Lote 11 Urb Primavera, Alt. Cdra 12 Av. Tomas Valle",
+        "telefono": "(01) 532 - 8445",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0758,
+          -11.9748
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "nombre": "Centro de Salud Carlos Cueto Fernandini",
+        "distrito": "Los Olivos",
+        "direccion": "Av. Las Palmeras S/N, entre Calle Elvira García Y G. Y Alameda",
+        "telefono": "(01) 485 - 7633",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0768,
+          -11.9618
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "nombre": "Centro de Salud Laura Caller",
+        "distrito": "Los Olivos",
+        "direccion": "Mz 10 Lt. S/N. AA. HH Laura Calle Zona 5, espalda de la comisaria",
+        "telefono": "(01) 527 - 2541",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0738,
+          -11.9578
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "nombre": "Centro de Salud San Martin De Porres Confraternidad",
+        "distrito": "Los Olivos",
+        "direccion": "Mz 143-A S/N, Av. Betancourt, AAHH San Martin De Porres S/N",
+        "telefono": "(01) 544 - 4536",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0748,
+          -11.9728
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "nombre": "Centro de Salud Sagrado Corazón De Jesús",
+        "distrito": "Los Olivos",
+        "direccion": "Plaza Cívica S/N, Proyecto Integral Cueto Fernandini, 3era Etapa",
+        "telefono": "(01) 523 - 9958",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0758,
+          -11.9638
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "nombre": "Centro de Salud Rio Santa",
+        "distrito": "Los Olivos",
+        "direccion": "Calle 11, Asociación de Vivienda Rio Santa",
+        "telefono": "(01) 544 - 3060",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0798,
+          -11.9768
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "nombre": "Centro de Salud Los Olivos",
+        "distrito": "Los Olivos",
+        "direccion": "Jr. Santa Cruz de Pachacútec, 2da Cuadra S/N, Urb. Panamericana Norte",
+        "telefono": "(01) 523 - 9959",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0818,
+          -11.9508
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "nombre": "Centro Materno Infantil Juan Pablo II",
+        "distrito": "Los Olivos",
+        "direccion": "Calle 28 S/N AA. HH Juan Pablo II S/N",
+        "telefono": "(01) 529 - 8900",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0788,
+          -11.8688
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "nombre": "Centro de Salud La Ensenada",
+        "distrito": "Puente Piedra",
+        "direccion": "Jr. Jacarandá S/N – AA. HH La Ensenada (Costado De Comisaria)",
+        "telefono": "(01) 551 - 0822",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0748,
+          -11.8748
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "nombre": "Centro de Salud Laderas de Chillón",
+        "distrito": "Puente Piedra",
+        "direccion": "Av. Vía De Integración S/N - Mz C1 - Lote. 3a, 1 Explanada AA. HH Laderas de Chillón",
+        "telefono": "(01) 551 - 0159",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0818,
+          -11.8558
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "nombre": "Centro de Salud Jerusalén",
+        "distrito": "Puente Piedra",
+        "direccion": "AA. HH Jerusalén, Jr. Galilea Con San Juan S/N, (Costado Comisaría De Zapallal)",
+        "telefono": "(01) 550 - 3614",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0858,
+          -11.8618
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "nombre": "Centro Materno Infantil Dr. Enrique Martin Altuna",
+        "distrito": "Puente Piedra",
+        "direccion": "Asociación De Vivienda Virgen De Las Nieves, Mz B Lote 18 - Zapallal",
+        "telefono": "(01) 527 - 4340",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0898,
+          -11.8678
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "nombre": "Centro Materno Infantil Santa Rosa",
+        "distrito": "Puente Piedra",
+        "direccion": "AA.HH. Santa Rosa, Mz. 50, Lote Pm, Av. Santa Rosa",
+        "telefono": "(01) 369 - 5697",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0828,
+          -11.8638
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "nombre": "Centro de Salud Materno Infantil Los Sureños",
+        "distrito": "Puente Piedra",
+        "direccion": "Cooperativa De Vivienda Los Sureños Frente Mz. C Lote 11k, Calle 1",
+        "telefono": "(01) 548 - 3182",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368,
+          -12.0108
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "nombre": "Centro de Salud San Juan de Amancaes",
+        "distrito": "Rímac",
+        "direccion": "AA. HH Pampas De S.J. Amancaes 2da, Alt. 1 cdra. 1/2 Mercado Chachi",
+        "telefono": "(01) 381 - 9931",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0388,
+          -12.0128
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "nombre": "Centro de Salud Flor de Amancaes",
+        "distrito": "Rímac",
+        "direccion": "Av. Prolongación Flor de Amancaes, S/N AA. HH Flor de Amancaes",
+        "telefono": "(01) 381 - 4399",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0448,
+          -12.0238
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "nombre": "Centro de Salud Leoncio Prado",
+        "distrito": "Rímac",
+        "direccion": "Alt. Cuadra 3 Av. Alcázar, Ce 2099 Urb. Leoncio Prado",
+        "telefono": "(01) 382 - 1532",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0408,
+          -12.0168
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "nombre": "Centro de Salud Mariscal Castilla",
+        "distrito": "Rímac",
+        "direccion": "Jr. Pedro Arzola Cdra. 1 S/N AA. HH Mariscal Castilla, Parque Yolanda Vigil",
+        "telefono": "(01) 381 - 6345",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0488,
+          -12.0278
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "nombre": "Centro de Salud Caquetá",
+        "distrito": "Rímac",
+        "direccion": "Av. Los Próceres Nº 1051, Frente Al Parque De Trabajo",
+        "telefono": "(01) 382 - 1420",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0468,
+          -12.0258
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "nombre": "Centro de Salud Ciudad Y Campo",
+        "distrito": "Rímac",
+        "direccion": "Jacinto Benavente 264 Urb. Ciudad Y Campo",
+        "telefono": "(01) 382 - 1437",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0428,
+          -12.0208
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "nombre": "Centro Materno Infantil Rímac",
+        "distrito": "Rímac",
+        "direccion": "Pasaje. San German 270 Urb. Villacampa",
+        "telefono": "(01) 382 - 1619",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0448,
+          -12.0188
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "nombre": "Centro Materno Infantil Piedra Liza",
+        "distrito": "Rímac",
+        "direccion": "Av. Santa Rosa S/N Piedraliza, Alt. Mercado De Flores Santa Rosa",
+        "telefono": "(01) 481 - 9920",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0748,
+          -12.0088
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "nombre": "Centro de Salud Gustavo Lanatta Lujan",
+        "distrito": "San Martin de Porres",
+        "direccion": "Jr. Félix Del Valle N° 505 2da. Etapa (Alt. Cuadra. 4 Av. Universitaria)",
+        "telefono": "(01) 586 - 1881",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0938,
+          -11.9748
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "nombre": "Centro de Salud Infantas",
+        "distrito": "San Martin de Porres",
+        "direccion": "Av. 25 de enero, Calle Santa Marina N°107 - Urb. San Martín",
+        "telefono": "(01) 536 - 2726",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0818,
+          -12.0028
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "nombre": "Centro de Salud Perú III Zona",
+        "distrito": "San Martin de Porres",
+        "direccion": "Av. Universitaria 181 Frente A La Institución Educativa José Granda",
+        "telefono": "(01) 567 - 8777",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0838,
+          -12.0048
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "nombre": "Centro Materno Infantil México",
+        "distrito": "San Martin de Porres",
+        "direccion": "Jr. Sergio Bernales Cuadra 1/Urb. Condevilla (Alt. Av. José Granda Cdra. 34)",
+        "telefono": "(01) 586 - 1918",
+        "horario": "24 horas",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778,
+          -12.0128
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "nombre": "Centro de Salud Los Libertadores",
+        "distrito": "San Martin de Porres",
+        "direccion": "Av. Libertador Don José De San Martín Nº 1055 Asociación De Vivienda Libertadores",
+        "telefono": "(01) 531 - 2313",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0878,
+          -11.9888
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "nombre": "Centro de Salud San Juan De Salinas",
+        "distrito": "San Martin de Porres",
+        "direccion": "Calle Las Turquesas Pasaje Nº 8 Asociación Rosario Del Norte",
+        "telefono": "(01) 575 - 4499",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0858,
+          -12.0068
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "nombre": "Centro de Salud Valdiviezo",
+        "distrito": "San Martin de Porres",
+        "direccion": "Calle Las Dalias Nº171 Urb. Popular Valdiviezo, Alt. 20 Av. José Granda",
+        "telefono": "(01) 569 - 3375",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0808,
+          -11.9968
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "nombre": "Centro de Salud Ex Fundo Naranjal",
+        "distrito": "San Martin de Porres",
+        "direccion": "Jr. Jircan Nº 604 Cooperativa Ex-Hacienda Naranjal (Alt. Mercado Tantamayo)",
+        "telefono": "(01) 529 - 8143",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0828,
+          -11.9948
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "nombre": "Centro de Salud Virgen Del Pilar De Naranjal",
+        "distrito": "San Martin de Porres",
+        "direccion": "Av. Los Alisos Nº 397. Urb. Naranjal",
+        "telefono": "(01) 523 - 9973",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0848,
+          -12.0038
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "nombre": "Centro de Salud Condevilla",
+        "distrito": "San Martin de Porres",
+        "direccion": "Jr. José María Córdova Nº 3397, Alt. 33 Av. José Granda",
+        "telefono": "(01) 586 - 1853",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0768,
+          -12.0108
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "nombre": "Centro Base San Martin",
+        "distrito": "San Martin de Porres",
+        "direccion": "Pasaje Los Leones 115, Alt. Cuadra 9 De La Av. Zarumilla",
+        "telefono": "(01) 382 - 1643",
+        "horario": "7:00 a.m. a 6:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA NORTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0458,
+          -12.0778
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "nombre": "Centro de Salud Jesús María",
+        "distrito": "Jesús María",
+        "direccion": "Av. Arnaldo Márquez N° 1750",
+        "telefono": "(01) 463 - 7799",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0128,
+          -12.0648
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "nombre": "Centro de Salud San Cosme",
+        "distrito": "La Victoria",
+        "direccion": "Av. Bauzate y Meza, Altura de la Cdra N° 23",
+        "telefono": "(01) 323 - 1889",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0148,
+          -12.0668
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "nombre": "Centro de Salud El Porvenir",
+        "distrito": "La Victoria",
+        "direccion": "Jr. Sebastián Barranca N° 977",
+        "telefono": "(01) 473 - 1100",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0168,
+          -12.0688
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "nombre": "Centro de Salud Max Arias Schreiber",
+        "distrito": "La Victoria",
+        "direccion": "Jr. Antonio Raymondi N° 220 Primer Piso",
+        "telefono": "(01) 423 - 4865",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0388,
+          -12.0598
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "nombre": "Centro de Salud Villa María Perpetuo Socorro",
+        "distrito": "Lima",
+        "direccion": "Jr. Villa María N° 745",
+        "telefono": "(01) 458 - 3445",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0508,
+          -12.0488
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "nombre": "Centro de Salud Mirones",
+        "distrito": "Lima",
+        "direccion": "Av. Luis Brayle N° 13",
+        "telefono": "(01) 425 - 3590",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0298,
+          -12.0498
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "nombre": "Centro de Salud San Sebastián",
+        "distrito": "Lima",
+        "direccion": "Jr. Ica N° 774-778",
+        "telefono": "(01) 425 - 1830",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0518,
+          -12.0508
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "nombre": "Centro de Salud Mirones Bajo",
+        "distrito": "Lima",
+        "direccion": "Jr. Bruno Terreros N° 144",
+        "telefono": "(01) 334 - 1233",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0288,
+          -12.0468
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "nombre": "Centro de Salud Conde De La Vega Baja",
+        "distrito": "Lima",
+        "direccion": "Jr. Conde De La Vega Baja N° 488",
+        "telefono": "(01) 330 - 1547",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0518,
+          -12.0618
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "nombre": "Centro de Salud Unidad Vecinal Nº 3",
+        "distrito": "Lima",
+        "direccion": "Block Nª 1 unidad vecinal Nª 3",
+        "telefono": "(01) 464 - 8455",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0318,
+          -12.0478
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "nombre": "Centro Especializado de Referencia ITSS y VIH/SIDA Raúl Patrucco Puig",
+        "distrito": "Lima",
+        "direccion": "Jr. Huanta 927",
+        "telefono": "(01) 328 - 9053",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0348,
+          -12.0828
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "nombre": "Centro de Salud Lince",
+        "distrito": "Lince",
+        "direccion": "Jr. Manuel Candamo N° 495",
+        "telefono": "(01) 471 - 2588",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0748,
+          -12.0878
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "nombre": "Centro de Salud Materno Infantil Magdalena",
+        "distrito": "Magdalena del Mar",
+        "direccion": "Jr. Junin 322",
+        "telefono": "461-5630",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0318,
+          -12.1218
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "nombre": "Centro de Salud Santa Cruz De Miraflores",
+        "distrito": "Miraflores",
+        "direccion": "Av. José Pardo N° 796",
+        "telefono": "(01) 243 - 8911",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0008,
+          -12.1068
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "nombre": "Centro de Salud Todos Los Santos San Borja",
+        "distrito": "San Borja",
+        "direccion": "Jr. Franz Schubert S/N Esquina Con Jr Bozovich",
+        "telefono": "(01) 475 - 2908",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0358,
+          -12.0918
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "nombre": "Centro de Salud San Isidro",
+        "distrito": "San Isidro",
+        "direccion": "Av. Pérez Araníbar (Del Ejército) N° 1756",
+        "telefono": "(01) 264 - 3125",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9878,
+          -12.0098
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "nombre": "Centro de Salud La Huayrona",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Calle Las Gemas S/N El Parque - Cooperativa La Huayrona",
+        "telefono": "(01) 387 - 7400",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9968,
+          -12.0188
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "nombre": "Centro de Salud Caja De Agua",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Jr. Moquegua N° 202. Urb Caja De Agua",
+        "telefono": "(01) 458 - 3445",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0038,
+          -11.9918
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "nombre": "Centro de Salud San Hilarión",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Jr. Los Silicios S/N Urb. San Hilarión S/N",
+        "telefono": "(01) 388 - 2500",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0008,
+          -12.0018
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "nombre": "Centro de Salud Chacarilla De Otero",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Jr. José Antonio Encinas Nº 155 - Urb. Chacarilla De Otero",
+        "telefono": "(01) 458 - 3290",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0028,
+          -12.0048
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "nombre": "Centro de Salud Zarate",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Jr. Los Chasquis con Yupanquis (Anexo Av. Los Amautas Nº 835)",
+        "telefono": "(01) 459 - 8400",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0098,
+          -11.9878
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "nombre": "Centro de Salud Medalla Milagrosa",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Av. Del Parque s/n",
+        "telefono": "(01) 388-2503",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0038,
+          -11.9788
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "nombre": "Centro de Salud José Carlos Mariátegui",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Av. Jose Carlos Mariátegui s/n Pdr. 8 Mz 88 s/n",
+        "telefono": "(01) 392-4900",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0068,
+          -11.9688
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "nombre": "Centro de Salud Bayóvar",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Pj. Bayovar segunda etapa",
+        "telefono": "(01) 392-2245",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0118,
+          -11.9828
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "nombre": "Centro de Salud Huáscar XV",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Av. Rio Grande Mz 129 Calle 57 Grupo 15 Alt. Cdra 9 Av. Jose Carlos Mariátegui - Huascar",
+        "telefono": "(01) 392-2530",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0058,
+          -11.9948
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "nombre": "Centro de Salud San Fernando",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Las Ortigas 1893 San Hilarión Ref. Paradero 13 Las Flores",
+        "telefono": "(01) 458-4806",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9938,
+          -12.0158
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "nombre": "Centro de Salud Ganimedes",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Av., El Sol s/n Mz J",
+        "telefono": "(01) 387-2790",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0058,
+          -11.9858
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "nombre": "Centro de Salud Santa María",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "AAHH Santa María",
+        "telefono": "(01) 388-3774",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9978,
+          -12.0138
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "nombre": "Centro de Salud La Libertad",
+        "distrito": "Lima",
+        "direccion": "Las Margaritas 1545 Inca Manco Capac (por Metro)",
+        "telefono": "(01) 458-4186",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábado",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0018,
+          -11.9968
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "nombre": "Centro de Salud Montenegro",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Sector 1 s/n espalda de la I.E: Néstor Escudero O.",
+        "telefono": "(01) 392-4729",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9958,
+          -12.0068
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "nombre": "Centro de Salud Campoy",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Av. Malecón Checa",
+        "telefono": "(01) 386 - 1645",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0088,
+          -11.9748
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "nombre": "Centro de Salud Cruz de Motupe",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "AAHH Cruz de Motupe III-V",
+        "telefono": "(01) 392 - 0678",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9898,
+          -12.0118
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "nombre": "Centro de Salud Jaime Zubieta",
+        "distrito": "San Juan de Lurigancho",
+        "direccion": "Mz A l1 prd 15 Av. Wiesse Jr. Cocharcas",
+        "telefono": "(01) 387 - 7589",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábados",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9988,
+          -12.0808
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "nombre": "Centro de Salud San Luis",
+        "distrito": "San Luis",
+        "direccion": "Calle Raúl Villarán N° 332",
+        "telefono": "(01) 474 - 3865",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0908,
+          -12.0768
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "nombre": "Centro de Salud San Miguel",
+        "distrito": "San Miguel",
+        "direccion": "Av. Libertad con Av. Los Mochicas S/N",
+        "telefono": "(01) 578 - 2718",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0178,
+          -12.1128
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "nombre": "Centro de Salud Surquillo",
+        "distrito": "Surquillo",
+        "direccion": "Jr. Colina 840 (Surquillo)",
+        "telefono": "445-0089",
+        "horario": "8:00 am - 2:00 pm",
+        "dias": "Martes, Jueves y Sábado",
+        "jurisdiccion": "DIRIS LIMA CENTRO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0018,
+          -12.0558
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "nombre": "Centro de Salud Catalina Huanca",
+        "distrito": "El Agustino",
+        "direccion": "Calle Teresa González de Fanning N° 180",
+        "telefono": "(01) 327 - 0971",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0008,
+          -12.0488
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "nombre": "Centro de Salud Primavera",
+        "distrito": "El Agustino",
+        "direccion": "URB. PRIMAVERA CALLE 23 DE SETIEMBRE S/N",
+        "telefono": "(01) 385 - 3072",
+        "horario": "8:00 am a 4:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0038,
+          -12.0538
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "nombre": "Centro de Salud Santa Magdalena Sofia",
+        "distrito": "El Agustino",
+        "direccion": "Av. Garcilaso de la Vega cdra 3",
+        "telefono": "(01) 323 - 6296",
+        "horario": "9:00 am a 5:00 pm",
+        "dias": "Martes, Jueves y Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0018,
+          -12.0518
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "nombre": "Centro de Salud Mental Comunitario David Tejada de Rivero",
+        "distrito": "El Agustino",
+        "direccion": "Av. María Baldarrago S/N Cdra 5 - Urbanización Coorporación",
+        "telefono": "(051) 989272159",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9778,
+          -12.0428
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "nombre": "Centro de Salud Chancas de Andahuaylas",
+        "distrito": "Santa Anita",
+        "direccion": "Calle Viru S/N Parque N° 4 Cooperativa Andahuaylas II Etapa",
+        "telefono": "(01) 362 - 5980",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9738,
+          -12.0488
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "nombre": "Centro de Salud San Carlos",
+        "distrito": "Santa Anita",
+        "direccion": "Asociación P-Vivi San Carlos Mz B lote 7B",
+        "telefono": "(01) 354 - 1738",
+        "horario": "8:00 am a 6 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9758,
+          -12.0448
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "nombre": "Centro de Salud Cooperativa Universal",
+        "distrito": "Santa Anita",
+        "direccion": "Jr. Jose Carlos Mariátegui Cdra 5",
+        "telefono": "(01) 362 - 0318",
+        "horario": "8:00 am 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9768,
+          -12.0468
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "nombre": "Centro de Salud Nocheto",
+        "distrito": "Santa Anita",
+        "direccion": "Calle Javier Heraud S/N",
+        "telefono": "(01) 362 - 0584",
+        "horario": "8:00 am a 6:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9608,
+          -12.0358
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "nombre": "Centro de Salud Santa Clara",
+        "distrito": "Ate",
+        "direccion": "Av. Estrella S/N Carretera Central Km 12",
+        "telefono": "(01) 356 - 1887",
+        "horario": "8:00 am 6:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9568,
+          -12.0418
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "nombre": "Centro de Salud Manylsa",
+        "distrito": "Ate",
+        "direccion": "Cooperativa Manylsa Mz F lote 1",
+        "telefono": "(01) 356 - 1672",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9418,
+          -12.0278
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "nombre": "Centro de Salud Horacio Zevallos",
+        "distrito": "Ate",
+        "direccion": "Av. Jaime Zubieta S/N AA.HH Horacio Zevallos",
+        "telefono": "(01) 359 - 2250",
+        "horario": "8:00 am a 6:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8968,
+          -12.0128
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "nombre": "Centro de Salud Señor de los Milagros",
+        "distrito": "Ate",
+        "direccion": "Área de Servicio N° 11 B Lote 3 Zona K Huaycán",
+        "telefono": "(01) 371 - 6119",
+        "horario": "8:00 am a 6:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9808,
+          -12.0888
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "nombre": "Centro de Salud Salamanca",
+        "distrito": "Ate",
+        "direccion": "Av. Los Mochicas N° 5131",
+        "telefono": "(01) 436 - 0962",
+        "horario": "8:00 am a 6:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9658,
+          -12.0468
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "nombre": "Centro de Salud San Antonio",
+        "distrito": "Ate",
+        "direccion": "Asociación de Pobladores San Antonio",
+        "telefono": "(01) 351 - 6189",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9578,
+          -12.0388
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "nombre": "Centro de Salud Fortaleza",
+        "distrito": "Ate",
+        "direccion": "Av. Los Virreyes S/N",
+        "telefono": "(01) 351 - 5376",
+        "horario": "8:00 am a 6:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9548,
+          -12.0348
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "nombre": "Centro de Salud Alfa y Omega",
+        "distrito": "Ate",
+        "direccion": "Cooperativa Alfa y Omega MZ W lote 4",
+        "telefono": "(01) 583 - 3215",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes, Miércoles y Viernes",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9378,
+          -12.0808
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "nombre": "Centro de Salud La Molina",
+        "distrito": "La Molina",
+        "direccion": "Calle El Haras S/N",
+        "telefono": "(01) 368 - 0119",
+        "horario": "8:00 am a 4:00 pm (L-V), 8:00 am a 2:00 pm (Sáb)",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9278,
+          -12.0878
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "nombre": "Centro de Salud Viña Alta",
+        "distrito": "La Molina",
+        "direccion": "Av. Los Olivos S/N Segunda Etapa - Viña Alta",
+        "telefono": "(01) 365 - 2308",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9458,
+          -12.0958
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "nombre": "Centro de Salud Musa",
+        "distrito": "La Molina",
+        "direccion": "Complejo Deportivo de Musa",
+        "telefono": "(01) 368-1281",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9338,
+          -12.0928
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "nombre": "Centro de Salud Portada del Sol",
+        "distrito": "La Molina",
+        "direccion": "Av. Principal Mz E6 Lote 3 II Etapa",
+        "telefono": "(01) 365 - 4263",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8828,
+          -12.0738
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "nombre": "Centro de Salud Tambo Viejo",
+        "distrito": "Cieneguilla",
+        "direccion": "Av. Manco Capac S/N Zona A Km. 18.5",
+        "telefono": "(01) 479 - 8849",
+        "horario": "8:00 am a 7:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7738,
+          -11.9878
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "nombre": "Centro de Salud Chaclacayo - López Silva",
+        "distrito": "Chaclacayo",
+        "direccion": "Las Retamas N° 300 Carretera Central Km 23",
+        "telefono": "(01) 358 - 2258",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Viernes",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7778,
+          -11.9918
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "nombre": "Centro de Salud Morón",
+        "distrito": "Chaclacayo",
+        "direccion": "Av. Unión AA.HH. Virgen de Fátima de Morón Carretera Central Km. 22.7",
+        "telefono": "(01) 358 - 2072",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8018,
+          -11.9958
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "nombre": "Centro de Salud Progreso",
+        "distrito": "Chaclacayo",
+        "direccion": "Av. Atahualpa N° 373 AA.HH Cultura y Progreso, referencia Paradero Ñaña",
+        "telefono": "(01) 359 - 0048",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6948,
+          -11.9378
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "nombre": "Centro de Salud Chosica",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Av. Lima Norte N° 422 - Carretera Central",
+        "telefono": "(01) 361 - 0302",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7028,
+          -11.9298
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "nombre": "Centro de Salud Moyopampa",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Av. Independencia S/N - Moyopampa",
+        "telefono": "(01) 361 - 2601",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6998,
+          -11.9418
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "nombre": "Centro de Salud Nicolás de Piérola",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Jr. Simón Bolivar N° 194 AA.HH Nicolás de Pierola",
+        "telefono": "(01) 360 - 3167",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7018,
+          -11.9488
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "nombre": "Centro de Salud San Antonio de Pedregal",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Av. Alfonso Ugarte S/N cruce con la Av. José Santos Chocano S/N",
+        "telefono": "(01) 360 - 2765",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9698,
+          -11.9058
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "nombre": "Centro de Salud Jicamarca",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Óvalo de Jicamarca Mz Ñ Lote 2 S/N",
+        "telefono": "(01) 371 - 1845",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9308,
+          -11.9808
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "nombre": "Centro de Salud Villa Leticia de Cajamarquilla",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Av. Leticia Mz K lote 9-12, Olivares",
+        "telefono": "(01) 356 - 4372",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9388,
+          -11.9878
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "nombre": "Centro de Salud Santa María de Huachipa",
+        "distrito": "Lurigancho Chosica",
+        "direccion": "Av. Los Canarios Mz O 2 lote 5",
+        "telefono": "(01) 371 - 1793",
+        "horario": "8:00 am a 2:00 pm",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA ESTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0208,
+          -12.1518
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "nombre": "Centro de Salud Gaudencio Bernasconi",
+        "distrito": "Barranco",
+        "direccion": "Av. Almirante Grau N° 198",
+        "telefono": "(01) 477 - 3699",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0038,
+          -12.2018
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "nombre": "C.S. Tupac Amaru de Villa",
+        "distrito": "Chorrillos",
+        "direccion": "Av. Tupac Amaru Mz. E1 S/N cruce con Av. San Juan, Tupac Amaru Villa - Chorrillos",
+        "telefono": "(01) 258-3127",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0058,
+          -12.2098
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "nombre": "C.M.I. San Genaro de Villa",
+        "distrito": "Chorrillos",
+        "direccion": "Calle 8 S/N San Genaro (A espalda de la Comisaría de San Genaro)",
+        "telefono": "(01) 249-7692",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0178,
+          -12.1738
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "nombre": "Centro de Emergencia San Pedro de los Chorrillos",
+        "distrito": "Chorrillos",
+        "direccion": "Jr. Ferrocarril S/N cruce con Av. Alejandro Iglesias",
+        "telefono": "(01) 251 - 8442",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9958,
+          -12.1868
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "nombre": "Centro de Salud Delicias de Villa",
+        "distrito": "Chorrillos",
+        "direccion": "Jr. Carhuarazo S/N, cruce con la Av. Cordillera Occidental, II Zona Delicias de Villa",
+        "telefono": "No tiene",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0078,
+          -12.2148
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "nombre": "Centro Materno Infantil Buenos Aires de Villa",
+        "distrito": "Chorrillos",
+        "direccion": "Calle 15 de Octubre cruce con calle Belén, Asoc. Pro Navidad de Villa",
+        "telefono": "(01) 258 - 3948",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8818,
+          -12.2788
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "nombre": "Centro Materno Infantil Lurín",
+        "distrito": "Lurín",
+        "direccion": "Jr. Grau N° 370",
+        "telefono": "(01) 430 - 1000",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8878,
+          -12.2848
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "nombre": "Centro de Salud CLAS Julio C. Tello",
+        "distrito": "Lurín",
+        "direccion": "Jr. Las Acacias Mz. B, Lt. 12, St. 1",
+        "telefono": "(01) 367 - 3139",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8958,
+          -12.3018
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "nombre": "Centro de Salud CLAS Nuevo Lurín - KM. 40",
+        "distrito": "Lurín",
+        "direccion": "Av. 28 de Julio, Mz. 18, Lt. 20, AA.HH. Nuevo Lurín",
+        "telefono": "(01) 430 - 2688",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9108,
+          -12.1738
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "nombre": "Centro Materno Infantil Portada de Manchay",
+        "distrito": "Pachacámac",
+        "direccion": "Calle 7, Mz. F, Lt. 11 cruce con Calle 4, AA.HH. Portada de Manchay",
+        "telefono": "(01) 345 - 6410",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9148,
+          -12.1648
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "nombre": "Centro de Salud CLAS Juan Pablo II",
+        "distrito": "Pachacámac",
+        "direccion": "Av. Miguel Grau Mz K Lote 05 SECTOR K LOS JARDINES C.P.R. Huertos De Manchay",
+        "telefono": "(01) 357-4260",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8708,
+          -12.2288
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "nombre": "Centro de Salud Pachacámac",
+        "distrito": "Pachacámac",
+        "direccion": "Av. Colonial S/N cruce con Jr. Castilla",
+        "telefono": "No tiene",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8028,
+          -12.4788
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "nombre": "Centro de Salud Pucusana",
+        "distrito": "Pucusana",
+        "direccion": "Av. Lima N° 559",
+        "telefono": "(01) 367 - 6079",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8358,
+          -12.3798
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "nombre": "Centro de Salud San Bartolo",
+        "distrito": "San Bartolo",
+        "direccion": "Av. San Bartolo, Mz. A, LT. 1 y Av. El Golf",
+        "telefono": "(01) 430 - 7843",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9728,
+          -12.1578
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "nombre": "Centro Materno Infantil Manuel Barreto",
+        "distrito": "San Juan de Miraflores",
+        "direccion": "Jr. Manuel Barreto S/N esquina con Máximo Abril zona K, Ciudad de Dios",
+        "telefono": "(01) 466 - 3649",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9648,
+          -12.1658
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "nombre": "Centro Materno Infantil Ollantay",
+        "distrito": "San Juan de Miraflores",
+        "direccion": "Av. Gabriel Torres S/N, Sector Ollantay - Pamplona Alta",
+        "telefono": "(01) 285 - 0331",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9918,
+          -12.1478
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "nombre": "Centro de Salud Santiago de Surco",
+        "distrito": "Santiago de Surco",
+        "direccion": "Jr. Daniel Cornejo 182 - Surco (A Dos cuadras del Parque Antiguo de Surco)",
+        "telefono": "(01) 248 - 8252",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9418,
+          -12.2128
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "nombre": "Centro Materno Infantil San José",
+        "distrito": "Villa el Salvador",
+        "direccion": "Sector 01, Grupo 15 - Intersección Av. Revolución y Av. Los Ángeles",
+        "telefono": "(01) 292 - 0104",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9398,
+          -12.2148
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "nombre": "Centro de Salud San Martín de Porres",
+        "distrito": "Villa el Salvador",
+        "direccion": "Sector 2, Grupo 15 S/N (frente a compañía de Bomberos de Villa El Salvador)",
+        "telefono": "(01) 493 - 0655",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9278,
+          -12.2338
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "nombre": "Puesto de Salud Brisas de Pachacámac",
+        "distrito": "Villa el Salvador",
+        "direccion": "Av. Maria Reich Mz. K S/N - Paradero las Brisas - Brisas de Pachacamac",
+        "telefono": "(01) 715-2638",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9348,
+          -12.2268
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "nombre": "Centro Materno Infantil César López Silva",
+        "distrito": "Villa el Salvador",
+        "direccion": "Sector IV- Mz. B, Lote 1, I Etapa - Urb. Pachacámac",
+        "telefono": "(01) 268 - 7738",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9468,
+          -12.2048
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "nombre": "Centro Materno Infantil Juan Pablo II",
+        "distrito": "Villa el Salvador",
+        "direccion": "Av. Pastor Sevilla S/N, cruce de la Av. César Vallejo con la Ruta C",
+        "telefono": "(01) 493 - 1881",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9528,
+          -12.1818
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "nombre": "Centro Materno Infantil Villa María del Triunfo",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. Pedro Valle S/N (Alt. 18 El triunfo)",
+        "telefono": "(01) 593 - 3900",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9618,
+          -12.1698
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "nombre": "Centro Materno Infantil José Galvez",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. Agricultura s/n cruce con Av. Arica",
+        "telefono": "(01) 293 - 1744",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9478,
+          -12.1758
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "nombre": "Centro Materno Infantil Daniel Alcides Carrión",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. Pachacútec N° 3470",
+        "telefono": "(01) 450 - 5684",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9508,
+          -12.1778
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "nombre": "Centro Materno Infantil José Carlos Mariátegui",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. Simón Bolivar esquina con Jr. Mariano Necochea S/N altura 24 de Av. Jose C. Mariategui Urb. San Gabriel",
+        "telefono": "(01) 283 - 5782",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9548,
+          -12.1868
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "nombre": "Centro Materno Infantil Tablada de Lurín",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. Republica S/N Mz. 60 cruce con Av. Billinghurst, II Sector",
+        "telefono": "(01) 356 - 5414",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9558,
+          -12.1738
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "nombre": "Centro de Salud Nueva Esperanza",
+        "distrito": "Villa María del Triunfo",
+        "direccion": "Av. 26 de Noviembre N° 835, Nueva Esperanza",
+        "telefono": "(01) 291 - 3152",
+        "horario": "8:00 a.m. a 8:00 p.m.",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRIS LIMA SUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1048,
+          -12.0108
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "nombre": "Centro de Salud Nestor Gambeta",
+        "distrito": "Callao",
+        "direccion": "Av. Alameda S/N PP. JJ. Gambeta Alta",
+        "telefono": "2015740 Anexo 4120",
+        "horario": "8.00 AM - 7PM",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1258,
+          -12.0598
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "nombre": "Centro de Salud Acapulco",
+        "distrito": "Callao",
+        "direccion": "Av. José Gálvez S/N Gálvez S/N MZ. B - Cercado Callao",
+        "telefono": "429-0059",
+        "horario": "8.00 AM - 7PM",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1168,
+          -12.0518
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "nombre": "Centro de Salud Sesquicentenario",
+        "distrito": "Callao",
+        "direccion": "Alt. Calle 7 y 14 - Urb. Sesquicentenario",
+        "telefono": "592-8665",
+        "horario": "7.30 AM - 7 PM",
+        "dias": "Lunes a Viernes",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1248,
+          -11.8448
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "nombre": "Centro de Salud Mi Perú",
+        "distrito": "Mi Perú",
+        "direccion": "MZ. G6 LOTE 1 Av. HUAURA URB. AG MI PERU",
+        "telefono": "553-5463",
+        "horario": "8.00 AM - 6PM",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1148,
+          -12.0588
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "nombre": "Centro de Salud Bellavista",
+        "distrito": "Bellavista",
+        "direccion": "Mz. F-5 Zona 2 - Ciudad del Pescador",
+        "telefono": "464-7103",
+        "horario": "7.30 AM - 7 PM",
+        "dias": "Lunes a Domingo",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1028,
+          -12.0388
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "nombre": "Centro de Salud Carmen de la Legua",
+        "distrito": "Carmen de la Legua",
+        "direccion": "Av. Manco Cápac, cuadra 8",
+        "telefono": "451-5865",
+        "horario": "7.30 AM - 7 PM",
+        "dias": "Lunes a Viernes",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1518,
+          -11.8738
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "nombre": "Centro de Salud Materno Infantil Pachacutec Perú - Corea",
+        "distrito": "Ventanilla",
+        "direccion": "Mz. X LT. 1 - AAHH Hiroshima - Ciudad Pachacutec",
+        "telefono": "2015740 Anexo 4410/4411",
+        "horario": "8.00 AM - 6PM",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1248,
+          -11.8608
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "nombre": "Centro de Salud Villa de los Reyes",
+        "distrito": "Ventanilla",
+        "direccion": "Mz. N-1 SC. Adelante (KM. 37.5 PAN. NOR) AA.HH. V. de los reyes",
+        "telefono": "5503707",
+        "horario": "8.00 AM - 6PM",
+        "dias": "Lunes a Sábado",
+        "jurisdiccion": "DIRESA CALLAO"
+      }
+    }
+  ]
+}
